@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">SevenWonders</string>
+
+
+
+
+    <string name="score_is">your score is </string>
+    <string name="from_10" > from 10</string>
+    <string name="herodotus">Herodotus</string>
+    <string name="rose_city">Rose city</string>
+    
+    
+    
+    <string name="welcome">Welcome to the quiz about wonders of the world!Good luck!</string>
+    <string name="question1">1.Which one of seven wonders of ancient world still exists today?</string>
+    <string name="answer1a">Temple of Artemis at Ephesus</string>
+    <string name="answer1b">Hanging Gardens of Babylon</string>
+    <string name="answer1c">Statue of Zeus at Olympia</string>
+    <string name="answer1d">Great Pyramid of Giza</string>
+
+    <string name="question2">2.Which one of these wonders is not from ancient world wonders list?</string>
+    <string name="answer2a">Lighthouse of Alexandria</string>
+    <string name="answer2b">Taj Mahal</string>
+    <string name="answer2c">Colossus of Rhodes</string>
+    <string name="answer2d">Mausoleum at Halicarnassus</string>
+
+    <string name="question3">3.The first historian who made an early list of seven ancient wonders?</string>
+    <string name="answer3">Name of the historian</string>
+
+    <string name="question4">4.Which ones of these belong to the list of seven natural wonders of the world?</string>
+    <string name="answer4a">Mount Everest</string>
+    <string name="answer4b">Grand Canyon</string>
+    <string name="answer4c">Aurora</string>
+    <string name="answer4d">Panama Canal</string>
+
+    <string name="question5">5.Which ones of these belong to the list of the new seven wonders of the world?</string>
+    <string name="answer5a">Great Wall of China</string>
+    <string name="answer5b">Petra</string>
+    <string name="answer5c">Colosseum</string>
+    <string name="answer5d">Catacombs of Kom el Shoqafa</string>
+
+    <string name="question6">6. Check all the wonders of the solar system!</string>
+    <string name="answer6a">Polar ice caps</string>
+    <string name="answer6b">The Asteroid belt</string>
+    <string name="answer6c">Olympus Mons on Mars</string>
+    <string name="answer6d">The Rings of Saturn</string>
+
+    <string name="question7">7. Petra, one of the new seven wonders, is also called?</string>
+    <string name="answer7">Another name</string>
+
+    <string name="question8">8.How long is the Great Wall of China?</string>
+    <string name="answer8a">22km.</string>
+    <string name="answer8b">15km.</string>
+    <string name="answer8c">100km.</string>
+    <string name="answer8d">50km.</string>
+
+
+
+    <string name="question9">9.The Great Pyramid of Giza was build around?</string>
+    <string name="answer9a">6320 BC</string>
+    <string name="answer9b">4000 BC</string>
+    <string name="answer9c">2560 BC</string>
+    <string name="answer9d">1000 BC</string>
+
+    <string name="question10">10. Was Stonehedge added to the new seven wonders of the world list?</string>
+    <string name="answer10a">Yes</string>
+    <string name="answer10b">No</string>
+
+    <string name="submit">submit</string>
+
+
+</resources>
