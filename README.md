@@ -1,6 +1,6 @@
 # SevenWonders
 
-##Seven wonders is third project in ABND course:
+## Seven wonders is third project in ABND course:
 
 The main objective was to create an educational app that quizzes a user about a certain topic of his/her choice.
 and how to present them to the user. I had to plan my app design before coding. My choise was to choose the topic for the quizzes about seven world wonders. I had to take my app layout from drawing to XML code, to create, position, and style views, to create interactivity through button clicks and Java code, had to comment and document my code.
@@ -11,7 +11,7 @@ and how to present them to the user. I had to plan my app design before coding. 
 - create variables that refer to each of the quiz answers.
 - writeing the code for the button which checks my answers. This code should run through each question in the app, record whether the user got the question right, and then display the quiz results in a Toast message.
 
-##Project overview:
+## Project overview:
 - My app contains 4 - 10 questions, including at least one check box, one radio button, and one text entry.
 - Questions are in a variety of formats such as free text response, checkboxes, and radio buttons.
 - Checkboxes are only used for questions with multiple right answers. Radio buttons are only used for questions with a single right answer.
