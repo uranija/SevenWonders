@@ -8,6 +8,13 @@ I had to Create, position, and style views.
 Had to create interactivity through button clicks and Java code.
 I had to comment and document my code.
 
+##Project overview:
+- My app contains 4 - 10 questions, including at least one check box, one radio button, and one text entry.
+- Questions are in a variety of formats such as free text response, checkboxes, and radio buttons.
+- Checkboxes are only used for questions with multiple right answers. Radio buttons are only used for questions with a single right answer.
+- App includes a button for the user to submit their answers and receive a score.
+- The app includes at least four of the following Views: TextView, ImageView, Button, Checkbox, EditText, LinearLayout, RelativeLayout, ScrollView, RadioButton, RadioGroup.
+- The app gracefully handles displaying all the content on screen when rotated.
 
 
 
