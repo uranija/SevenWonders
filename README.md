@@ -2,7 +2,7 @@
 
 Seven wonders is third project in ABND course:
 The goal was to create an educational app that quizzes a user about a certain topic of his/her choice.
-I had to plan my app design before coding.
+ and how to present them to the user. I had to plan my app design before coding. My choise was to choose the topic for the quizzes
 I had vto take my app layout from drawing to XML code.
 I had to Create, position, and style views.
 Had to create interactivity through button clicks and Java code.
