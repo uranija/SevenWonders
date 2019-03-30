@@ -12,12 +12,12 @@ and how to present them to the user. I had to plan my app design before coding. 
 - writeing the code for the button which checks my answers. This code should run through each question in the app, record whether the user got the question right, and then display the quiz results in a Toast message.
 
 ## Project overview:
-- My app contains 4 - 10 questions, including at least one check box, one radio button, and one text entry.
+- My app contains 10 questions, including at three check boxes, five radio button, and two text entries.
 - Questions are in a variety of formats such as free text response, checkboxes, and radio buttons.
 - Checkboxes are only used for questions with multiple right answers. Radio buttons are only used for questions with a single right answer.
 - App includes a button for the user to submit their answers and receive a score.
-- The app includes at least four of the following Views: TextView, ImageView, Button, Checkbox, EditText, LinearLayout, RelativeLayout, ScrollView, RadioButton, RadioGroup.
-- The app gracefully handles displaying all the content on screen when rotated.
+- The app includes the following Views: TextView, ImageView, Button, Checkbox, EditText, LinearLayout, RelativeLayout, ScrollView, RadioButton, RadioGroup.
+- The app displays all the content on screen when rotated.
 
 
 
